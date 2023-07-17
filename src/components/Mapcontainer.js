@@ -20,7 +20,7 @@
     // styled the maps to the center 
     return (
         <div>
-        <h1>daniel</h1>
+        <h1>Tolu</h1>
         <GoogleIcon/>
         <LoadScript googleMapsApiKey="AIzaSyBNfulPe9qSA2BRWs05zdtdgrfQz2KMnsY">
         <GoogleMap style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}} mapContainerStyle={mapStyles} zoom={15} center={defaultCenter} >
